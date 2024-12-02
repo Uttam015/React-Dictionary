@@ -15,6 +15,40 @@
 <p>
 
 <img title="React JS" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" />
-<img title="API" width="60" src="[https://cutt.ly/zRgpYnW](https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png](https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png)">
+<img title="API" width="60" src="https://cutt.ly/zRgpYnW">
 
 </p>
+
+
+## To Run Locally
+
+Create a directory or a folder
+```bash
+  mkdir project
+```
+
+Clone the project
+
+```bash
+  git clone https://github.com/j471n/react-dictionary.git
+```
+
+Go to the project directory
+
+```bash
+  cd project
+```
+
+Install dependencies
+
+```bash
+  npm install
+        or
+  yarn
+```
+
+Start the server
+
+```bash
+  npm run start
+```
