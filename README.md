@@ -30,7 +30,7 @@ Create a directory or a folder
 Clone the project
 
 ```bash
-  git clone https://github.com/j471n/react-dictionary.git
+  git clone https://github.com/Uttam015/React-Dictionary.git
 ```
 
 Go to the project directory
@@ -43,8 +43,6 @@ Install dependencies
 
 ```bash
   npm install
-        or
-  yarn
 ```
 
 Start the server
